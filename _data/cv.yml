@@ -25,14 +25,56 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Regulatory Affairs Specialist Intern
+    - title: Regulatory Affairs Intern
       institution: Hologic, Inc
       year: 05/2024 - 08/2024
       description:
-        - 
+        - Conducted international registration for 15+ IVD products, communicate and provide documents to APAC and EMEA regional team.
+        - Improved and automated international registration processes to streamline information collection for greater efficiency.
+        - Generated a product database from the Agile document management system, covering molecular and cytology product lines.
+        - Assessed the regulatory impact of proposed changes to existing market products from other departments, communicate to marketing and
+research team.
+        - Reviewed labeling, and promotional materials to ensure compliance with labeling regulations.
+    - title: Clinical and Regulatory Consulting Service Associate
+      institution: USC Consulting Center
+      year: 09/2024 - Present
+      description:
+        - Observed and supported clinical site monitoring and documentation to ensure compliance with regulatory requirements, protocol adherence,
+and high-quality data collection.
+        - Compiled a 510(k) submission for a single-lead EEG device and reviewed and responded to FDA requests for information.
+        - Developed and reviewed core labeling documents (Instructions for Use, package insert) for a single-lead EEG device.
+    - title: Regulatory Affairs Intern
+      institution: Yuyu Pharma, Inc
+      year: 01/2024 - 05/2024
+      description:
+        - Conducted regulatory and market research on treatments for obesity and diabetes for strategic insight in product development.
+        - Performed comprehensive analyses of US and EU regulatory pathways, including market assessments for comparable drug classes.
+        - Reported directly to the CEO, managed company communications, and organized activities for the regulatory affairs team.
+    - title: Formulation and Regulatory Consultant
+      institution: Cizar, Inc
+      year: 01/2023 - Present
+      description:
+        - Test and optimize the formulation for anti-virus zinc eye drop product, PBPK modeling of the peptide-zinc formulation.
+        - Develop regulatory strategy for the US market, including the preparation of patent applications and request for designation.
+    - title: Quality Compliance Student Intern
+      institution: USC Team-Based Regulatory and Quality Solutions (TRAQS)
+      year: 08/2022 - 01/2023
+      description:
+        - Developed comprehensive cGMP training materials for a client plasmid DNA manufacturing company for all employee’s annual refresher
+        - Delivered training content, including PowerPoint presentations, case studies, and quizzes, ensuring alignment with 21 CFR Part 210 & 211
+600-680, ICH Q7 ICH Q5A requirements.
+        - Conducted in-depth research on FDA cGMP guidelines, identifying common compliance gaps and improving quality control processes.
+    - title: Clinical Affairs Intern 
+      institution: Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, China
+      year: 05/2017 - 05/2018
+      description:
+        - Contributed to a clinical study designed to analyze HBV genotypes and drug resistance among chronic hepatitis B patients.
+        - Shadowed clinical study protocol development, including patient selection criteria, data collection methods, and laboratory testing strategies.
+        - Helped formulate strategic recommendations for clinical decision-making, optimizing antiviral drug regimens based on HBV genotype and
+resistance profiles.
 
 - title: Academic Interests
-  type: nested_list
+  type: list
   contents:
     - drug delivery
     - infectious disease
@@ -41,4 +83,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Board games, Skiing.
+    - <u>Hobbies:</u> board games, skiing.
